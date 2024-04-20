@@ -36,9 +36,8 @@ while True:
 ```
 
 ## OUPUT
-![image](https://github.com/RESHMA22C/3b_CHAT_USING_TCP_SOCKETS/assets/147474426/12eb7fd2-b9ad-4088-b7e5-951edba51937)
+![image](https://github.com/feryjfgkuyfgewjfgew/3b_CHAT_USING_TCP_SOCKETS/assets/150319377/16752180-24a0-4c6c-8ef6-b4e1d6af2265)
 
-![image](https://github.com/RESHMA22C/3b_CHAT_USING_TCP_SOCKETS/assets/147474426/6adceb17-a23a-4238-a6c1-4c268e160bce)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
