@@ -1,7 +1,7 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
-## roll:212223240104
-## name: naresh.r
+## ROLL :212223240104
+## NAME: NARESH.R
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
 1. Import the necessary modules in python
@@ -36,7 +36,7 @@ while True:
 ```
 
 ## OUPUT
-![image](https://github.com/feryjfgkuyfgewjfgew/3b_CHAT_USING_TCP_SOCKETS/assets/150319377/16752180-24a0-4c6c-8ef6-b4e1d6af2265)
+![image](https://github.com/feryjfgkuyfgewjfgew/3b_CHAT_USING_TCP_SOCKETS/assets/150319377/85077a97-efa7-4030-942c-a697a2fe16ab)
 
 
 ## RESULT
