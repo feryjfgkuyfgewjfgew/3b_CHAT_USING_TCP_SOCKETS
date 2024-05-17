@@ -36,7 +36,12 @@ while True:
 ```
 
 ## OUPUT
-![image](https://github.com/feryjfgkuyfgewjfgew/3b_CHAT_USING_TCP_SOCKETS/assets/150319377/85077a97-efa7-4030-942c-a697a2fe16ab)
+## CLINT
+![Screenshot 2024-05-17 190404](https://github.com/feryjfgkuyfgewjfgew/3b_CHAT_USING_TCP_SOCKETS/assets/150319377/bfaed416-e783-4d86-b4d7-58e48beab0c1)
+
+
+## SERVER
+![Screenshot 2024-05-17 190345](https://github.com/feryjfgkuyfgewjfgew/3b_CHAT_USING_TCP_SOCKETS/assets/150319377/a2e2ef51-c20e-4d0c-b48e-3e9f2334f6bf)
 
 
 ## RESULT
